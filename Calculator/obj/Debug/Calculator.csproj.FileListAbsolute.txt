@@ -4,3 +4,4 @@ C:\Users\QUYEN TRAN\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
 C:\Users\QUYEN TRAN\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\QUYEN TRAN\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\QUYEN TRAN\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\QUYEN TRAN\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache

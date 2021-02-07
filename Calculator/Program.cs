@@ -6,9 +6,9 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Commands: " + args[0] + "," + args[1]);
             Calculator calc = new Calculator();
             string input;
+            Console.WriteLine("To exit application, enter EXIT or an empty message");
             while (true)
             {
                 Console.Write("Expression to calculate: ");
